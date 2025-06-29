@@ -1,0 +1,9 @@
+ Versión 2.0.0 – Módulo de Supervisores y Evaluaciones
+
+- Se creó un nuevo módulo enfocado en **supervisores**, incluyendo herramientas para gestionar personal, capacitaciones y evaluaciones.
+- Los supervisores pueden ver un resumen del personal a su cargo, programar entrenamientos y realizar **evaluaciones de desempeño** de manera sistematizada.
+- Se implementó un sistema de **interfaz dinámica según el rol**, que adapta el contenido mostrado dependiendo del tipo de usuario (empleado, médico, supervisor).
+- Esta versión marca un salto importante en la escalabilidad del sistema, permitiendo una administración más completa de los recursos humanos en faena.
+
+Enlace al prototipo en figma
+https://www.figma.com/design/j0TQ5fVObIJt7CZIlaBu8A/Untitled?node-id=0-1&p=f&t=04Az45l1jslol8UM-0
