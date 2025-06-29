@@ -1,0 +1,11 @@
+ Versión 1.2.0 – Módulo Médico Integrado
+
+- Se desarrolló el **módulo médico**, el cual permite realizar un seguimiento más detallado del estado de salud de los trabajadores.
+- Se implementó la **verificación biométrica** como medida de seguridad adicional, asegurando que solo personal autorizado acceda a información médica.
+- El sistema permite **asignar exámenes médicos, revisar historial clínico y visualizar resultados**, todo desde una interfaz intuitiva.
+- Se agregó una **agenda médica diaria**, que ayuda a planificar y organizar las evaluaciones en faena.
+- Esta versión apuntó a facilitar la gestión preventiva de salud ocupacional, optimizando el tiempo y reduciendo riesgos.
+
+Enlace al prototipo
+https://www.figma.com/design/j0TQ5fVObIJt7CZIlaBu8A/Untitled?node-id=0-1&p=f&t=04Az45l1jslol8UM-0
+
